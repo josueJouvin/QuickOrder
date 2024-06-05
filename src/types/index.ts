@@ -1,5 +1,5 @@
 export type MenuItem = {
-    id: number
+    id: number | string
     name: string
     price: number
 }
